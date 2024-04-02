@@ -1,1 +1,2 @@
-My file fred
+Hello fred
+I love Flintstones!
